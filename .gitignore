@@ -1,0 +1,9 @@
+.venv
+.cache
+*.py~
+*.rst~
+output
+*.html~
+*.css~
+*.xml~
+.#*
