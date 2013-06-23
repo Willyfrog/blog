@@ -60,3 +60,7 @@ DATE_FORMAT = '%Y-%mo-%d, %H:%M'
 
 CONTENT_EXTENSION = ".rst"
 CONTENT_IGNORE = ["*.rst~", ".#*.rst", ".#*.css" ]
+
+DEPLOYMENT = {
+    'willyfrog': 'rsync -vzr -e ssh --delete $OUTPUT_DIR vfrog:/var/www/willyfrog/blog/'
+    }
