@@ -1,8 +1,8 @@
-cargando modulos dinámicamente en la botella
+Cargando modulos dinámicamente en la botella
 ############################################
 
 :date: 2012-11-04 11:42
-:author: admin
+:author: Willyfrog
 :category: [proyecto, python]
 :tags: [api, bottle, programación, python, pythonic, snipet]
 :slug: cargando-modulos-dinamicamente-en-la-botella

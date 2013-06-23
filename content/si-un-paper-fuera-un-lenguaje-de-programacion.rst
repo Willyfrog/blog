@@ -1,7 +1,7 @@
 Si un paper fuera un lenguaje de programacion
 #############################################
 :date: 2012-02-14 10:55
-:author: admin
+:author: Willyfrog
 :category: Humor
 :tags: html, humor, programación, python
 :slug: si-un-paper-fuera-un-lenguaje-de-programacion

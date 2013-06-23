@@ -2,7 +2,7 @@
 ######################
 
 :date: 2012-01-27 19:54
-:author: admin
+:author: Willyfrog
 :category: Disclaimer
 :tags: [hacktivismo, libertad de expresion, meneame, twitter]
 :slug: censura-o-hactivismo

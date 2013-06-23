@@ -1,7 +1,7 @@
 Curva de Hilbert en un 'tuit'
 #############################
 :date: 2012-03-14 17:33
-:author: admin
+:author: Willyfrog
 :category: python
 :tags: matematicas, programación, python, snipet
 :slug: curva-de-hilbert-en-un-tuit
