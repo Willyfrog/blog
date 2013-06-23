@@ -59,4 +59,4 @@ DATE_FORMAT = '%Y-%mo-%d, %H:%M'
 #CONTENT_IGNORE = ["*.md~", ".#*.md"]
 
 CONTENT_EXTENSION = ".rst"
-CONTENT_IGNORE = ["*.rst~", ".#*.rst"]
+CONTENT_IGNORE = ["*.rst~", ".#*.rst", ".#*.css" ]
