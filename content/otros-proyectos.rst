@@ -18,5 +18,5 @@ Cliente de Twitter para descarga de pequeños ficheros.
 
 **hy**: Post (aun no) - `GitHub <https://github.com/Willyfrog/hy>`__ Lisp en python.
 
-.. _proyecto euler: http://blog.willinux.net/?page_id=94
+.. _proyecto euler: /proyecto-euler
 

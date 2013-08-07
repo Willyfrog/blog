@@ -15,4 +15,4 @@ Intentaré actualizar este post segun vaya leyendo algunos de esos
 artículos si merecen algún tipo de reseña especial.
 
 .. _enlace recopilatorio: http://jessenoller.com/good-to-great-python-reads/
-.. _nombré hace poco: http://blog.willinux.net/?p=29
+.. _nombré hace poco: /2011/recursos-de-python
