@@ -32,6 +32,6 @@ Si bien estoy seguro de que se puede hacer mejor, esta es mi segunda aproximaci�
 
 La última versión de esta funcion, podrá encontrarse siempre en `github`_
 
-.. _github: https://github.com/Willyfrog/vimfiles/blob/master/emacs_custom.el
+.. _github: https://github.com/Willyfrog/vimfiles/tree/master/emacs_custom
 .. _Emacs: http://www.gnu.org/software/emacs/
 .. _emacs lisp: http://en.wikipedia.org/wiki/Emacs_Lisp
